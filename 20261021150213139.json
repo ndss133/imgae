@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF30",
+  "lock_id": "BROWSER-NF30-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 16_00_44-4.png",
+  "source_master_sha256": "AD1D759B0A72BD4592FACF7FB23406073710E7828FB7879746B09C74652CFBDB",
+  "product": {
+    "final_text_lines": ["BEST PASTA", "DELICIOUS", "EAT IN NOW"],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact uppercase serif lettering, line breaks, spacing, and layout from the source master",
+    "primary_color_hex": "#00DD44",
+    "artwork": [
+      {"name": "custom-cut plaque outline with visible mounting points", "position": "preserve exact source contour and mounting-point positions"},
+      {"name": "dark wall and near-black product background", "position": "preserve source background and framing"}
+    ],
+    "acrylic_contour": "Preserve exact plaque silhouette and polished clear edge from source",
+    "mounting_holes": "Match the four visible source mounting points exactly; do not add or remove",
+    "power_cord": "Match source exactly; do not add or remove"
+  },
+  "market": {
+    "scene_theme": "near-black dark-wall sign-only product presentation",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "scene_plan": {
+    "01_main": "Use only the named sign-only source master",
+    "02_secondary": "None; do not add a scene",
+    "03_person": "None; do not add people"
+  },
+  "sku_scene": {
+    "style": "dark-near-black-source-master",
+    "anchor": "ChatGPT 图像 2026年10月19日 16_00_44-4.png"
+  }
+}
