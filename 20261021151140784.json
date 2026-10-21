@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF35",
+  "lock_id": "BROWSER-NF35-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 13_03_16-4.png",
+  "source_master_sha256": "4a6b43b34429f137b40c6e5293f59af1f70a28f3b28c93802e874aa725f24ec8",
+  "source_selection": "fourth source image, visually confirmed as standalone black-background product; directly authorized by user on 2026-10-21",
+  "product": {
+    "final_text_lines": [
+      "Premium",
+      "Gas"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve source lettering exactly: large two-line cursive lettering",
+    "primary_color_hex": "#FFCC00",
+    "artwork": [],
+    "acrylic_contour": "Preserve exact source cut contour, edge, framing and position",
+    "mounting_holes": "Preserve exactly as visible in source; add none",
+    "power_cord": "Preserve exactly as visible in source; add none"
+  },
+  "market": {
+    "scene_theme": "original near-black sign-only product photography",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "sku_scene": {
+    "style": "source-black-studio",
+    "anchor": "ChatGPT 图像 2026年10月20日 13_03_16-4.png"
+  },
+  "lock_sha256": "dea76f8853947134795c49055db064963c7c14fa57998a085fcded0c811af349"
+}
