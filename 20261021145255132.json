@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF15",
+  "lock_id": "BROWSER-NF15-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 14_45_57-4.png",
+  "source_master_sha256": "E63CCA39FE5F7E6032A230912E2D963116BBE2DFDDCA486E962703A8417A2BD0",
+  "product": {
+    "final_text_lines": ["Olivia"],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact flowing script and lettering from the source master",
+    "primary_color_hex": "#0066FF",
+    "artwork": [{"name": "integrated heart-shaped terminal flourish", "position": "preserve exactly as in the source"}],
+    "acrylic_contour": "Preserve exact clear custom-cut contour and polished edge from source",
+    "mounting_holes": "Match source exactly; do not add or remove",
+    "power_cord": "Match source exactly; do not add or remove"
+  },
+  "market": {
+    "scene_theme": "pure black product-sign presentation",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "scene_plan": {
+    "01_main": "Use only the named sign-only source master",
+    "02_secondary": "None; do not add a scene",
+    "03_person": "None; do not add people"
+  },
+  "sku_scene": {
+    "style": "pure-black-source-master",
+    "anchor": "ChatGPT 图像 2026年10月19日 14_45_57-4.png"
+  }
+}
