@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE",
+  "lock_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE-v1",
+  "product": {
+    "final_text_lines": [
+      "PALETTE PROFILE",
+      "COLOR ANALYSIS"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact tall geometric uppercase tube lettering, line break, spacing, baseline, and alignment.",
+    "primary_color_hex": "#FFF3D9",
+    "artwork": [
+      "Preserve the outlined color-wheel segment at the right end of the second line."
+    ],
+    "acrylic_contour": "Preserve the exact wide irregular sign contour and silhouette.",
+    "mounting_holes": "Preserve only visible mounting details; do not add holes.",
+    "power_cord": "No cord is clearly identifiable; do not add one.",
+    "source_master_file": "03-adult-holding.png",
+    "source_master_sha256": "bfc7b527edd69ac4969a45f2f098b9544f2d3c9e7fcbdd7992d83bdd38af559d"
+  },
+  "market": {
+    "scene_theme": "Color-analysis studio with fabric swatches and garment rack; preserve source photograph.",
+    "target_buyer": "Buyer seeking a custom PALETTE PROFILE COLOR ANALYSIS neon sign; no separate market profile supplied.",
+    "risk_score": 0,
+    "profit_score": 0,
+    "trend_score": 0,
+    "total_score": 0,
+    "selection_reason": "User-provided source set; commercial scoring was not part of this image task."
+  },
+  "scene_plan": {
+    "01_main": "Preserve the original fashion studio photograph, fabrics, table, sign placement, and warm lighting.",
+    "02_secondary": "Retain the same garment rack, fabric swatches, mannequin, and framing.",
+    "03_person": "Keep the same woman, face, expression, hands, black outfit, standing pose, and position."
+  },
+  "sku_scene": {
+    "style": "locked-original-master-photo",
+    "anchor": "03-adult-holding.png"
+  },
+  "lock_sha256": "082822e9b32f9986b85e87cf3e7a9395f3ba1486aafd0af28d05467962ce3ad1"
+}
