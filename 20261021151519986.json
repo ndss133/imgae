@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF37",
+  "lock_id": "BROWSER-NF37-v1",
+  "lock_sha256": "3e89757726ba29a584541847bba8bc614bbe27c3f43e41584ccb1999760b5d56",
+  "source_master_sha256": "ef8462759ac725150fa9cb9c33024af1d20ee01016bddf7ebe4fbcfab5d0b34b",
+  "status": "complete",
+  "active_batch": null,
+  "completed_batches": [
+    1,
+    2
+  ],
+  "attempt_history": [
+    {
+      "batch": 1,
+      "attempt": 1,
+      "result": "passed_qa",
+      "reason": "Visually approved 3x2 ImageGen grid; opaque 800x800 RGB crops."
+    },
+    {
+      "batch": 2,
+      "attempt": 1,
+      "result": "passed_qa",
+      "reason": "Visually approved 3x2 ImageGen grid; opaque 800x800 RGB crops."
+    }
+  ],
+  "failed_batches": []
+}
