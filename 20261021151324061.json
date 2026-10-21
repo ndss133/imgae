@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF36",
+  "lock_id": "BROWSER-NF36-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 13_13_22-4.png",
+  "source_master_sha256": "658e302afe5c1778f0450f1298fb8db368a92d67ee8a95ebe872265c81deb00e",
+  "source_selection": "fourth source image, visually confirmed as standalone black-background product; directly authorized by user on 2026-10-21",
+  "product": {
+    "final_text_lines": [
+      "This is where",
+      "the magic",
+      "happens"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve source lettering exactly: three-line handwritten cursive",
+    "primary_color_hex": "#9933FF",
+    "artwork": [],
+    "acrylic_contour": "Preserve exact source cut contour, edge, framing and position",
+    "mounting_holes": "Preserve exactly as visible in source; add none",
+    "power_cord": "Preserve exactly as visible in source; add none"
+  },
+  "market": {
+    "scene_theme": "original near-black sign-only product photography",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "sku_scene": {
+    "style": "source-black-studio",
+    "anchor": "ChatGPT 图像 2026年10月20日 13_13_22-4.png"
+  },
+  "lock_sha256": "b38ad329c5478280619d32b459fb6942d6ceb32608cb2cccf9ebfb63df3c0102"
+}
