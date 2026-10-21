@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF16",
+  "lock_id": "BROWSER-NF16-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 15_30_55-4.png",
+  "source_master_sha256": "42EBECE8579C567C336EECF90101BEA65BCD84AE9892569E948A2BA958D44938",
+  "product": {
+    "final_text_lines": [
+      "MAKE ROOM",
+      "FOR",
+      "JOY"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact mixed uppercase and script lettering from the source master",
+    "primary_color_hex": "#FFCC00",
+    "artwork": [
+      {
+        "name": "source's existing underline strokes beneath FOR",
+        "position": "preserve exactly as in the source"
+      }
+    ],
+    "acrylic_contour": "Preserve exact clear custom-cut contour and polished edge from source",
+    "mounting_holes": "Match source exactly; do not add or remove",
+    "power_cord": "Match source exactly; do not add or remove"
+  },
+  "market": {
+    "scene_theme": "pure black product-sign presentation",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "scene_plan": {
+    "01_main": "Use only the named sign-only source master",
+    "02_secondary": "None; do not add a scene",
+    "03_person": "None; do not add people"
+  },
+  "sku_scene": {
+    "style": "pure-black-source-master",
+    "anchor": "ChatGPT 图像 2026年10月19日 15_30_55-4.png"
+  },
+  "lock_sha256": "eb1a8ae8532481af6b11ab38c056f6921bed83debcd9085d7590d0805a9214de"
+}
