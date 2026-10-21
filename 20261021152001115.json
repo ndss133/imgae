@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF39",
+  "lock_id": "BROWSER-NF39-v1",
+  "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 13_52_25-4.png",
+  "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c",
+  "status": "complete",
+  "generation_method": "imagegen-3x2-from-locked-source",
+  "batch_layout": "3x2",
+  "images": [
+    {
+      "filename": "07_White.png",
+      "image_number": 7,
+      "color": "White",
+      "hex": "#FFFFFF",
+      "qa": "pass",
+      "file_sha256": "7e1b15242ed86e2a6809f177af079f2ffbb2e8c9c5e5893df74443f5480b01ae",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "08_Warm_White.png",
+      "image_number": 8,
+      "color": "Warm White",
+      "hex": "#FFF3D9",
+      "qa": "pass",
+      "file_sha256": "9068600088839c9f0513a4db0d188ff8311cbadda14ff94a2c7f344503534552",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "09_Blue.png",
+      "image_number": 9,
+      "color": "Blue",
+      "hex": "#0066FF",
+      "qa": "pass",
+      "file_sha256": "70d4ea5d235dc25fbb442f6ad3fe8d8e4e0213900d1d817d63073d919ac880a3",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "10_Golden_Yellow.png",
+      "image_number": 10,
+      "color": "Golden Yellow",
+      "hex": "#FFCC00",
+      "qa": "pass",
+      "file_sha256": "41bbc80b56c534a13f5ec110d2865bdafa9bc24d4956037fe134c8049495191f",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "11_Light_Blue.png",
+      "image_number": 11,
+      "color": "Light Blue",
+      "hex": "#66CCFF",
+      "qa": "pass",
+      "file_sha256": "a671b1411608f75f29d92786fb3e5c5581045d6ffc08a8e1bd04a868dbcfec72",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "12_Lemon_Yellow.png",
+      "image_number": 12,
+      "color": "Lemon Yellow",
+      "hex": "#FFF200",
+      "qa": "pass",
+      "file_sha256": "e754c25146911404216db4b3081c5c96ebfdc1e656a1b9065228d03acc6646ff",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "13_Orange.png",
+      "image_number": 13,
+      "color": "Orange",
+      "hex": "#FF7700",
+      "qa": "pass",
+      "file_sha256": "09ba89b7ff8f36fb3ce38a2ecf1574ae795b827444957cc0e9a7fba7b12e04b0",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "14_Pink.png",
+      "image_number": 14,
+      "color": "Pink",
+      "hex": "#FF66AA",
+      "qa": "pass",
+      "file_sha256": "554aa5eb3c664f7b3f6c19bbfdd961969cef92bf859211504d0b6c3055e6776c",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "15_Purple.png",
+      "image_number": 15,
+      "color": "Purple",
+      "hex": "#9933FF",
+      "qa": "pass",
+      "file_sha256": "441b5c61693adffb69a4c34bbda8bf026c90457f9b0af1e5d620745a069707a6",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "16_Green.png",
+      "image_number": 16,
+      "color": "Green",
+      "hex": "#00DD44",
+      "qa": "pass",
+      "file_sha256": "688a6fc2686653d1c255c794d1b2ec4fb09f4bb4a2c8b80af1c9adb96d132dd8",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "17_Red.png",
+      "image_number": 17,
+      "color": "Red",
+      "hex": "#FF2222",
+      "qa": "pass",
+      "file_sha256": "d5ffa9f42f68aeeab1568d7a58788d7d752e8c4cb8a5801fe2f303e0c5bf793b",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    },
+    {
+      "filename": "18_Rose_Red.png",
+      "image_number": 18,
+      "color": "Rose Red",
+      "hex": "#FF2288",
+      "qa": "pass",
+      "file_sha256": "ecec1ea9bfab592eeb8c15bb7b3f945140a41bbd29213c7bdfec07b2ab2fa449",
+      "lock_sha256": "12cf00e584a13434806bcc82c9330ad0a2525a7416764970dcfaef1e50e7450d",
+      "source_master_sha256": "3acadf424bd09df9669c61b3bef13b7d3974ae6a1f623c6719422d52143c373c"
+    }
+  ],
+  "pending_colors": [],
+  "attempt_history": [
+    {
+      "batch": 1,
+      "attempt": 1,
+      "result": "passed_qa",
+      "reason": "Visually approved 3x2 ImageGen grid; opaque 800x800 RGB crops."
+    },
+    {
+      "batch": 2,
+      "attempt": 1,
+      "result": "passed_qa",
+      "reason": "Visually approved 3x2 ImageGen grid; opaque 800x800 RGB crops."
+    }
+  ],
+  "failed_batches": []
+}
