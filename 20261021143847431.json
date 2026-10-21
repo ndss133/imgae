@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-15-ZERO-PING",
+  "lock_id": "SET-20261019-ROUND4-15-ZERO-PING-v1",
+  "product": {
+    "final_text_lines": [
+      "ZERO PING"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact wide geometric uppercase tube lettering, spacing, baseline, and one-line placement.",
+    "primary_color_hex": "#0066FF",
+    "artwork": [],
+    "acrylic_contour": "Preserve the exact straight horizontal sign contour and silhouette.",
+    "mounting_holes": "Preserve only visible mounting details; do not add holes.",
+    "power_cord": "No cord is clearly identifiable; do not add one.",
+    "source_master_file": "03-adult-holding.png",
+    "source_master_sha256": "8ecd26f0005fe000350edd6f14c2f07db8a87e9e428ab6d58f6f31ac66778d1b"
+  },
+  "market": {
+    "scene_theme": "Woman gamer seated in a dim blue-lit media room; preserve source photograph.",
+    "target_buyer": "Buyer seeking a custom ZERO PING gaming neon sign; no separate market profile supplied.",
+    "risk_score": 0,
+    "profit_score": 0,
+    "trend_score": 0,
+    "total_score": 0,
+    "selection_reason": "User-provided source set; commercial scoring was not part of this image task."
+  },
+  "scene_plan": {
+    "01_main": "Preserve the original gaming-room photograph, chair, shelves, sign placement, and blue lighting.",
+    "02_secondary": "Retain the same camera, shelves, plant, desk, and framing.",
+    "03_person": "Keep the same woman, face, expression, headphones, hands, clothing, seated pose, and position."
+  },
+  "sku_scene": {
+    "style": "locked-original-master-photo",
+    "anchor": "03-adult-holding.png"
+  },
+  "lock_sha256": "9aabadfbc1d5ec7936681cbfc4f2d65135f51651a98065afac6b5984d1f5018f"
+}
