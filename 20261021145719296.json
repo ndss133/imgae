@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF22",
+  "lock_id": "BROWSER-NF22-v1",
+  "lock_sha256": "250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed",
+  "source_master_sha256": "e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024",
+  "status": "complete",
+  "active_batch": null,
+  "completed_batches": [1,2],
+  "attempt_history": [
+    {"batch": 1, "attempt": 1, "result": "failed_qa", "reason": "Square canvas made each panel rectangular; one allowed retry used a landscape 3:2 canvas."},
+    {"batch": 1, "attempt": 2, "result": "passed_qa", "reason": "Landscape 3:2 six-cell grid; exact copy and LED colors checked; each crop is an opaque 800x800 RGB PNG."},
+    {"batch": 2, "attempt": 1, "result": "passed_qa", "reason": "Exact wording/artwork, six requested LED colors, subject/background and opaque 800x800 RGB crops visually checked."}
+  ],
+  "failed_batches": []
+}
