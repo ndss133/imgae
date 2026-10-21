@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF22",
+  "lock_id": "BROWSER-NF22-v1",
+  "lock_sha256": "250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 15_37_46-4.png",
+  "source_master_sha256": "e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024",
+  "status": "complete",
+  "generation_method": "imagegen-3x2-from-locked-source",
+  "batch_layout": "3x2",
+  "images": [
+    {"filename":"07_White.png","image_number":7,"color":"White","hex":"#FFFFFF","qa":"pass","file_sha256":"88FD8384054DBCAEE12D75FE9A82162EA1BABC256BC34B8F0F3CC0CBA23AC597","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"08_Warm_White.png","image_number":8,"color":"Warm White","hex":"#FFF3D9","qa":"pass","file_sha256":"81E8BB99768E6EB683F059912DEAE5A4BC10D503C300AB0BCA2F9423826C07F5","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"09_Blue.png","image_number":9,"color":"Blue","hex":"#0066FF","qa":"pass","file_sha256":"1C0414F9D45AF04A8726DC871A40A066D0BF67A3ED8BF9C9600F11480D109B19","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"10_Golden_Yellow.png","image_number":10,"color":"Golden Yellow","hex":"#FFCC00","qa":"pass","file_sha256":"A74717A259BEF67526691FB0C4D9335FB31D50F3DE331EEE89B9914A35D8E95C","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"11_Light_Blue.png","image_number":11,"color":"Light Blue","hex":"#66CCFF","qa":"pass","file_sha256":"0B4640DD7309CF96744C38531CD6CBEFD84F90B522978F9E4773966ED190D4AD","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"12_Lemon_Yellow.png","image_number":12,"color":"Lemon Yellow","hex":"#FFF200","qa":"pass","file_sha256":"727CB8281F40077BAF774E2C34278205FFC093E504009A4A8B7754803ED5B4D4","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"13_Orange.png","image_number":13,"color":"Orange","hex":"#FF7700","qa":"pass","file_sha256":"99D4C3CD9F51C54353EF448C0FDCF769379E95D857D17AE7AF6ADFB7AC8E9948","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"14_Pink.png","image_number":14,"color":"Pink","hex":"#FF66AA","qa":"pass","file_sha256":"BAE005D1E0868D673AF4DD3639001D3AFB6B9DC62DCBE77D9E7A354480069E4A","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"15_Purple.png","image_number":15,"color":"Purple","hex":"#9933FF","qa":"pass","file_sha256":"5A6756C815EBB5727F750FE0AC6AEFCDF0D55521A80BF01B609E19E91D9AEC34","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"16_Green.png","image_number":16,"color":"Green","hex":"#00DD44","qa":"pass","file_sha256":"18968F9FB266286C32DE5E0D53B7140229F09476A4502EFE6FA132C92FEBA567","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"17_Red.png","image_number":17,"color":"Red","hex":"#FF2222","qa":"pass","file_sha256":"2E8D5F7C32EA13E85A92E32E9E6DB6FD6E219DFA5C0EA29DE44EB566555860D1","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"},
+    {"filename":"18_Rose_Red.png","image_number":18,"color":"Rose Red","hex":"#FF2288","qa":"pass","file_sha256":"39E2CA9DE768C56BFDBBB6A653FC2326E14C9D24EC0F7ED2207D294B78098650","lock_sha256":"250c2fa97a8f38525295f9feded1366013644c4df8b2d8a4cc3478817777a5ed","source_master_sha256":"e62c05344e1b8c35caf8248285c463f1a802c882cf66fd20a8d396eca04ad024"}
+  ],
+  "pending_colors": [],
+  "attempt_history": [
+    {"batch": 1, "attempt": 1, "result": "failed_qa", "reason": "Square canvas made each panel rectangular; one allowed retry used a landscape 3:2 canvas."},
+    {"batch": 1, "attempt": 2, "result": "passed_qa", "reason": "Landscape 3:2 six-cell grid; exact copy and LED colors checked; each crop is an opaque 800x800 RGB PNG."},
+    {"batch": 2, "attempt": 1, "result": "passed_qa", "reason": "Exact wording/artwork, six requested LED colors, subject/background and opaque 800x800 RGB crops visually checked."}
+  ],
+  "failed_batches": []
+}
