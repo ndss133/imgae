@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF12",
+  "lock_id": "BROWSER-NF12-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 13_27_10-4.png",
+  "source_master_sha256": "8FF5DC07632FD73C4867A2C446540077D23C92F72C9218DE18FA185179CC1B3F",
+  "product": {
+    "final_text_lines": [
+      "I Love",
+      "You"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact flowing script and lettering from the source master",
+    "primary_color_hex": "#FF2222",
+    "artwork": [
+      {
+        "name": "integrated heart-shaped terminal flourish",
+        "position": "preserve exactly as in the source"
+      }
+    ],
+    "acrylic_contour": "Preserve exact clear custom-cut contour and polished edge from source",
+    "mounting_holes": "Match source exactly; do not add or remove",
+    "power_cord": "Match source exactly; do not add or remove"
+  },
+  "market": {
+    "scene_theme": "pure black product-sign presentation",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "scene_plan": {
+    "01_main": "Use only the named sign-only source master",
+    "02_secondary": "None; do not add a scene",
+    "03_person": "None; do not add people"
+  },
+  "sku_scene": {
+    "style": "pure-black-source-master",
+    "anchor": "ChatGPT 图像 2026年10月19日 13_27_10-4.png"
+  },
+  "lock_sha256": "8186d4d6f87ae07fabd77b6c38eeb0d8bbf0c973c78a597447282674a4893e81"
+}
