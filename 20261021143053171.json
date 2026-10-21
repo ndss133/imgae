@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE",
+  "lock_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE-v1",
+  "lock_sha256": "082822e9b32f9986b85e87cf3e7a9395f3ba1486aafd0af28d05467962ce3ad1",
+  "source_master": "03-adult-holding.png",
+  "source_master_sha256": "bfc7b527edd69ac4969a45f2f098b9544f2d3c9e7fcbdd7992d83bdd38af559d",
+  "status": "complete",
+  "active_batch": null,
+  "batch_attempt": 6,
+  "batch_status": "complete",
+  "user_authorized_recovery_attempt": 2,
+  "authorized_by_user": true,
+  "recovery_result_summary": "Batch 1 recovery passed; normal batch 2 passed QA. All 12 color variants complete.",
+  "completed_colors": [
+    "White",
+    "Warm White",
+    "Blue",
+    "Golden Yellow",
+    "Light Blue",
+    "Lemon Yellow",
+    "Orange",
+    "Pink",
+    "Purple",
+    "Green",
+    "Red",
+    "Rose Red"
+  ],
+  "batch_results": [
+    {
+      "batch": 1,
+      "attempt": 1,
+      "status": "failed",
+      "qa_note": "The generation returned without a renderable asset for visual QA; no output saved. Retrying once."
+    },
+    {
+      "batch": 1,
+      "attempt": 2,
+      "status": "failed",
+      "qa_note": "The retry visibly changed pose, sign scale or placement, or framing between cells; no output saved. Retry exhausted."
+    },
+    {
+      "batch": 2,
+      "attempt": 1,
+      "status": "passed",
+      "qa_note": "Text/icon, six target colors/order, subject/sign placement, scene consistency, 800x800 and opacity passed; six PNGs saved."
+    }
+  ],
+  "failed_batches": [],
+  "failed_colors": [],
+  "updated_at_local": "2026-10-21T11:03:19+08:00",
+  "recovery_record": {
+    "recovery_attempt": 2,
+    "result": "passed",
+    "saved": [
+      "07_White.png",
+      "08_Warm_White.png",
+      "09_Blue.png",
+      "10_Golden_Yellow.png",
+      "11_Light_Blue.png",
+      "12_Lemon_Yellow.png"
+    ]
+  }
+}
