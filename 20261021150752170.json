@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF33",
+  "lock_id": "BROWSER-NF33-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 11_32_13-4.png",
+  "source_master_sha256": "ae88ef90ec5a6e3665f2668fa1dcc0f3db0f0a1ee9535f5e1cb682280d65f816",
+  "source_selection": "fourth source image, visually confirmed as standalone black-background product; directly authorized by user on 2026-10-21",
+  "product": {
+    "final_text_lines": [
+      "Mechanic",
+      "Shop"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve source lettering exactly: bold dimensional outlined lettering",
+    "primary_color_hex": "#FF7700",
+    "artwork": [],
+    "acrylic_contour": "Preserve exact source cut contour, edge, framing and position",
+    "mounting_holes": "Preserve exactly as visible in source; add none",
+    "power_cord": "Preserve exactly as visible in source; add none"
+  },
+  "market": {
+    "scene_theme": "original near-black sign-only product photography",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "sku_scene": {
+    "style": "source-black-studio",
+    "anchor": "ChatGPT 图像 2026年10月20日 11_32_13-4.png"
+  },
+  "lock_sha256": "4097449b7f2e29a460c75aaa53f4bec63da7289b34c89757dffd2cb3e93030b4"
+}
