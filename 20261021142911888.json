@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-10-CATS-RUN-THIS",
+  "lock_id": "SET-20261019-ROUND4-10-CATS-RUN-THIS-v1",
+  "product": {
+    "final_text_lines": [
+      "CATS RUN THIS"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact bold rounded uppercase tube lettering, spacing, baseline, and single-line placement.",
+    "primary_color_hex": "#FFCC00",
+    "artwork": [
+      "Preserve the small cat-head outline at the right end of the sign."
+    ],
+    "acrylic_contour": "Preserve the exact straight horizontal sign contour and cat-head extension.",
+    "mounting_holes": "Preserve only visible mounting details; do not add holes.",
+    "power_cord": "No cord is clearly identifiable; do not add one.",
+    "source_master_file": "03-adult-holding.png",
+    "source_master_sha256": "77d2b5e5714fd9e1e37679176d36d2046db859d246227942393a8c90b1e95cd2"
+  },
+  "market": {
+    "scene_theme": "Man seated cross-legged with a cat in a warmly lit home; preserve source photograph.",
+    "target_buyer": "Buyer seeking a custom CATS RUN THIS neon sign; no separate market profile supplied.",
+    "risk_score": 0,
+    "profit_score": 0,
+    "trend_score": 0,
+    "total_score": 0,
+    "selection_reason": "User-provided source set; commercial scoring was not part of this image task."
+  },
+  "scene_plan": {
+    "01_main": "Preserve the original home photograph, couch, shelves, sign placement, and warm lighting.",
+    "02_secondary": "Retain the same cat, room furnishings, rug, and framing.",
+    "03_person": "Keep the same man, face, expression, hands, sweater, seated pose, and position; keep the cat unchanged."
+  },
+  "sku_scene": {
+    "style": "locked-original-master-photo",
+    "anchor": "03-adult-holding.png"
+  },
+  "lock_sha256": "0fc286030b3d4e1201bc062e73f9be4e0f4a3647d6ffc15526c00cb18201da17"
+}
