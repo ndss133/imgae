@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF31",
+  "lock_id": "BROWSER-NF31-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 10_31_06-4.png",
+  "source_master_sha256": "53efd6c9e82df5f82419197b5fd7f41b6f37042ce6eab45cd8f396b0854a88ae",
+  "source_selection": "fourth source image, visually confirmed as standalone black-background product; directly authorized by user on 2026-10-21",
+  "product": {
+    "final_text_lines": [
+      "Everything is",
+      "Figureoutable"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve source lettering exactly: upper sans and large flowing cursive",
+    "primary_color_hex": "#00DD44",
+    "artwork": [],
+    "acrylic_contour": "Preserve exact source cut contour, edge, framing and position",
+    "mounting_holes": "Preserve exactly as visible in source; add none",
+    "power_cord": "Preserve exactly as visible in source; add none"
+  },
+  "market": {
+    "scene_theme": "original near-black sign-only product photography",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "sku_scene": {
+    "style": "source-black-studio",
+    "anchor": "ChatGPT 图像 2026年10月20日 10_31_06-4.png"
+  },
+  "lock_sha256": "f683eae6bfb1f7af1fabf0b29822e0af9cd64ad7835bd23298ceadd5808923c9"
+}
