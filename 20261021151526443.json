@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF37",
+  "lock_id": "BROWSER-NF37-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月20日 13_18_39-4.png",
+  "source_master_sha256": "ef8462759ac725150fa9cb9c33024af1d20ee01016bddf7ebe4fbcfab5d0b34b",
+  "source_selection": "fourth source image, visually confirmed as standalone black-background product; directly authorized by user on 2026-10-21",
+  "product": {
+    "final_text_lines": [
+      "Welcome to the",
+      "Jungle"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve source lettering exactly: upper rounded script and lower large cursive",
+    "primary_color_hex": "#00DD44",
+    "artwork": [],
+    "acrylic_contour": "Preserve exact source cut contour, edge, framing and position",
+    "mounting_holes": "Preserve exactly as visible in source; add none",
+    "power_cord": "Preserve exactly as visible in source; add none"
+  },
+  "market": {
+    "scene_theme": "original near-black sign-only product photography",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "sku_scene": {
+    "style": "source-black-studio",
+    "anchor": "ChatGPT 图像 2026年10月20日 13_18_39-4.png"
+  },
+  "lock_sha256": "3e89757726ba29a584541847bba8bc614bbe27c3f43e41584ccb1999760b5d56"
+}
