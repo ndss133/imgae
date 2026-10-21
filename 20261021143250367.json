@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-12-GEM-SMILE",
+  "lock_id": "SET-20261019-ROUND4-12-GEM-SMILE-v1",
+  "product": {
+    "final_text_lines": [
+      "GEM SMILE",
+      "TOOTH GEMS"
+    ],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact tall narrow uppercase tube lettering, two-line placement, spacing, and baseline.",
+    "primary_color_hex": "#0066FF",
+    "artwork": [
+      "Preserve the small outlined sparkle-gem icon at the right end of the second line."
+    ],
+    "acrylic_contour": "Preserve the exact irregular transparent sign contour and silhouette.",
+    "mounting_holes": "Preserve only visible mounting details; do not add holes.",
+    "power_cord": "No cord is clearly identifiable; do not add one.",
+    "source_master_file": "03-adult-holding.png",
+    "source_master_sha256": "2adae3416c44aab121adf9c5a3bb7e536abcc861ae9151efe632357c24b96b70"
+  },
+  "market": {
+    "scene_theme": "Tooth-gem studio with product displays, shelves, and a seated technician; preserve source photograph.",
+    "target_buyer": "Buyer seeking a custom GEM SMILE TOOTH GEMS neon sign; no separate market profile supplied.",
+    "risk_score": 0,
+    "profit_score": 0,
+    "trend_score": 0,
+    "total_score": 0,
+    "selection_reason": "User-provided source set; commercial scoring was not part of this image task."
+  },
+  "scene_plan": {
+    "01_main": "Preserve the original beauty studio photograph, product displays, sign placement, and blue lighting.",
+    "02_secondary": "Retain the same shelving, gems, chair, plant, and framing.",
+    "03_person": "Keep the same woman, face, expression, hands, black uniform, standing pose, and position."
+  },
+  "sku_scene": {
+    "style": "locked-original-master-photo",
+    "anchor": "03-adult-holding.png"
+  },
+  "lock_sha256": "458d67e6354f5d45289f1d13f5b8a93124e84b062f96ef20d9877daa6961919c"
+}
