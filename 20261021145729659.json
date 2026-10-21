@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "set_id": "BROWSER-NF22",
+  "lock_id": "BROWSER-NF22-v1",
+  "source_master_file": "ChatGPT 图像 2026年10月19日 15_37_46-4.png",
+  "source_master_sha256": "E62C05344E1B8C35CAF8248285C463F1A802C882CF66FD20A8D396ECA04AD024",
+  "product": {
+    "final_text_lines": ["Bella's", "Corner"],
+    "placeholder_results": {},
+    "font_style": "Preserve the exact flowing script lettering and layout from the source master",
+    "primary_color_hex": "#FF6688",
+    "artwork": [
+      {"name": "small heart flourish above the lettering", "position": "preserve exactly as in the source"},
+      {"name": "clear acrylic sign backing and polished contour", "position": "preserve exact source silhouette and edge"}
+    ],
+    "acrylic_contour": "Preserve exact clear custom-cut contour and polished edge from source",
+    "mounting_holes": "Match source exactly; do not add or remove",
+    "power_cord": "Match source exactly; do not add or remove"
+  },
+  "market": {
+    "scene_theme": "dark charcoal near-black sign-only product presentation",
+    "target_buyer": "not specified; preserve existing product",
+    "risk_score": null,
+    "profit_score": null,
+    "trend_score": null,
+    "total_score": null,
+    "selection_reason": "Existing user-provided SET; no product selection or market scoring performed."
+  },
+  "scene_plan": {
+    "01_main": "Use only the named sign-only source master",
+    "02_secondary": "None; do not add a scene",
+    "03_person": "None; do not add people"
+  },
+  "sku_scene": {
+    "style": "dark-near-black-source-master",
+    "anchor": "ChatGPT 图像 2026年10月19日 15_37_46-4.png"
+  }
+}
