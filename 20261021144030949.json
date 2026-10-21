@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-16-SILENT-REPOST",
+  "lock_id": "SET-20261019-ROUND4-16-SILENT-REPOST-v1",
+  "lock_sha256": "69d1271053cffb4a44d2c0a4269b20de52b9ea94fcfc5b14b1bfdf88231d2fc9",
+  "source_master": "03-adult-holding.png",
+  "source_master_sha256": "dbc187c11fff7880c80cd71ec4f75eaadf6b834e15908be7666ff8df1eaed6bd",
+  "status": "complete",
+  "active_batch": null,
+  "batch_attempt": 6,
+  "batch_status": "complete",
+  "user_authorized_recovery_attempt": 2,
+  "authorized_by_user": true,
+  "recovery_result_summary": "Batch 1 recovery passed; normal batch 2 passed QA. All 12 color variants complete.",
+  "completed_colors": [
+    "White",
+    "Warm White",
+    "Blue",
+    "Golden Yellow",
+    "Light Blue",
+    "Lemon Yellow",
+    "Orange",
+    "Pink",
+    "Purple",
+    "Green",
+    "Red",
+    "Rose Red"
+  ],
+  "batch_results": [
+    {
+      "batch": 1,
+      "attempt": 1,
+      "status": "failed",
+      "qa_note": "Retry grid changes the man's pose/face, sign size/placement, and framing across cells; no outputs saved. Retry exhausted."
+    },
+    {
+      "batch": 2,
+      "attempt": 1,
+      "status": "passed",
+      "qa_note": "Text/icon, six target colors/order, subject/sign placement, scene consistency, 800x800 and opacity passed; six PNGs saved."
+    }
+  ],
+  "failed_batches": [],
+  "failed_colors": [],
+  "updated_at_local": "2026-10-21T11:03:19+08:00",
+  "recovery_record": {
+    "recovery_attempt": 2,
+    "result": "passed",
+    "saved": [
+      "07_White.png",
+      "08_Warm_White.png",
+      "09_Blue.png",
+      "10_Golden_Yellow.png",
+      "11_Light_Blue.png",
+      "12_Lemon_Yellow.png"
+    ]
+  }
+}
