@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "set_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE",
+  "lock_id": "SET-20261019-ROUND4-11-PALETTE-PROFILE-v1",
+  "lock_sha256": "082822e9b32f9986b85e87cf3e7a9395f3ba1486aafd0af28d05467962ce3ad1",
+  "source_master": "03-adult-holding.png",
+  "source_master_sha256": "bfc7b527edd69ac4969a45f2f098b9544f2d3c9e7fcbdd7992d83bdd38af559d",
+  "generation_method": "built-in-imagegen-3x2-six-color-grid-from-03-master",
+  "status": "complete",
+  "images": [
+    {
+      "image_number": 7,
+      "filename": "07_White.png",
+      "color_name": "White",
+      "color_hex": "#FFFFFF",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 8,
+      "filename": "08_Warm_White.png",
+      "color_name": "Warm White",
+      "color_hex": "#FFF3D9",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 9,
+      "filename": "09_Blue.png",
+      "color_name": "Blue",
+      "color_hex": "#0066FF",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 10,
+      "filename": "10_Golden_Yellow.png",
+      "color_name": "Golden Yellow",
+      "color_hex": "#FFCC00",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 11,
+      "filename": "11_Light_Blue.png",
+      "color_name": "Light Blue",
+      "color_hex": "#66CCFF",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 12,
+      "filename": "12_Lemon_Yellow.png",
+      "color_name": "Lemon Yellow",
+      "color_hex": "#FFF200",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 13,
+      "filename": "13_Orange.png",
+      "color_name": "Orange",
+      "color_hex": "#FF7700",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 14,
+      "filename": "14_Pink.png",
+      "color_name": "Pink",
+      "color_hex": "#FF66AA",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 15,
+      "filename": "15_Purple.png",
+      "color_name": "Purple",
+      "color_hex": "#9933FF",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 16,
+      "filename": "16_Green.png",
+      "color_name": "Green",
+      "color_hex": "#00DD44",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 17,
+      "filename": "17_Red.png",
+      "color_name": "Red",
+      "color_hex": "#FF2222",
+      "qa_status": "passed"
+    },
+    {
+      "image_number": 18,
+      "filename": "18_Rose_Red.png",
+      "color_name": "Rose Red",
+      "color_hex": "#FF2288",
+      "qa_status": "passed"
+    }
+  ],
+  "pending_colors": [],
+  "recovery_attempt": 2,
+  "recovery_result": "All 12 color variants passed QA and were saved."
+}
